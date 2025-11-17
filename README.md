@@ -14,6 +14,9 @@
 ## Tabel VLSM
 <img width="1388" height="604" alt="image" src="https://github.com/user-attachments/assets/140eeda1-2d2c-4b14-8122-1afd8ca32a7c" />
 
+## Topologi GNS3
+<img width="1920" height="1080" alt="A1" src="https://github.com/user-attachments/assets/c01389ed-fbfb-49aa-be63-9919b4c7355c" />
+
 ## CIDR
 <img width="1091" height="434" alt="image" src="https://github.com/user-attachments/assets/868d1ddb-d686-4f10-9080-c88a1d410b12" />
 
