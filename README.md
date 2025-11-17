@@ -17,3 +17,6 @@
 
 
 <img width="1091" height="434" alt="image" src="https://github.com/user-attachments/assets/868d1ddb-d686-4f10-9080-c88a1d410b12" />
+
+
+<img width="2093" height="1428" alt="modul4-jarkom" src="https://github.com/user-attachments/assets/cc9ea542-917c-405a-a4cb-716705383f93" />
