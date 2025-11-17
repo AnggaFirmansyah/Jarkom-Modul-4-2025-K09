@@ -5,6 +5,9 @@
 | Angga Firmansyah | 5027241062 |
 | Naruna Vicrantyo Putra Gangga | 5027241105 |
 
+## Tree VLSM
+![WhatsApp Image 2025-11-17 at 22 19 53](https://github.com/user-attachments/assets/fa136faa-e75f-4848-9c0e-c356b10ec9c2)
+
 ## Topologi CPT
 <img width="2292" height="1383" alt="Gambar_CPT" src="https://github.com/user-attachments/assets/e6a08a5e-66fd-4485-8f06-67b6144576a1" />
 
