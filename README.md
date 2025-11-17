@@ -5,18 +5,16 @@
 | Angga Firmansyah | 5027241062 |
 | Naruna Vicrantyo Putra Gangga | 5027241105 |
 
+## Topologi CPT
+<img width="2292" height="1383" alt="Gambar_CPT" src="https://github.com/user-attachments/assets/e6a08a5e-66fd-4485-8f06-67b6144576a1" />
 
 ## Rute
-<img width="774" height="632" alt="image" src="https://github.com/user-attachments/assets/bfb2d1de-ca12-4b93-8721-14ad4c169013" />
+<img width="1388" height="604" alt="image" src="https://github.com/user-attachments/assets/140eeda1-2d2c-4b14-8122-1afd8ca32a7c" />
 
 ## Tabel VLSM
-<img width="769" height="591" alt="image" src="https://github.com/user-attachments/assets/a2dcbbc1-a5bf-4573-89e8-a18952203b5f" />
-
-## Data Asli VLSM
-<img width="930" height="619" alt="image" src="https://github.com/user-attachments/assets/cd5e5b97-aafc-492e-9ca6-922aaf0875a6" />
+<img width="924" height="576" alt="image" src="https://github.com/user-attachments/assets/9ac08bd9-3571-4acf-83e3-2145dad1b5fb" />
 
 ## CIDR
 <img width="1091" height="434" alt="image" src="https://github.com/user-attachments/assets/868d1ddb-d686-4f10-9080-c88a1d410b12" />
 
-## Topologi CPT
-<img width="2093" height="1428" alt="modul4-jarkom" src="https://github.com/user-attachments/assets/cc9ea542-917c-405a-a4cb-716705383f93" />
+
